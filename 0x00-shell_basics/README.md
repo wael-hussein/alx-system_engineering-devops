@@ -11,3 +11,4 @@ script-6 mkdir /tmp/my_first_directory/ : Create a script that creates a directo
 script-7 mv : Move the file betty from /tmp/ to /tmp/my_first_directory.
 script-8 rm : The file betty is in /tmp/my_first_directory
 script-9 rm -r : Delete the directory my_first_directory that is in the /tmp directory. 
+script-10 cd - : Write a script that changes the working directory to the previous one.
