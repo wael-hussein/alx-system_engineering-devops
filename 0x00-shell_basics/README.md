@@ -19,4 +19,5 @@ script-14 cp -ur *.html : Create a script that copies all the HTML files from th
 script-15 mv [[:upper:]]* : Create a script that moves all files beginning with an uppercase letter.
 script-16 rm -r *~ : Create a script that deletes all files in the current working directory that end with the character ~.
 script-17 mkdir -p : Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+script-18 ls -xamp : Write a command that lists all the files and directories of the current directory, separated by commas (,).
 
