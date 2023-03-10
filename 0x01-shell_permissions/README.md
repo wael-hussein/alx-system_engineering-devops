@@ -14,4 +14,6 @@
 13 : group owner to school for the file hello
 14 :  changes the owner to vincent and the group owner to staff
 15 : changes the owner and the group owner
-16 : Write a script that will play the StarWars IV episode in the terminal.
+16 : changes the owner of the file hello to betty
+17 : Write a script that will play the StarWars IV episode in the terminal.
+
