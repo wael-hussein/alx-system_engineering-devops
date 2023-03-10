@@ -13,3 +13,4 @@
 12 : Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 13 : group owner to school for the file hello
 14 :  changes the owner to vincent and the group owner to staff
+15 : changes the owner and the group owner
