@@ -4,4 +4,4 @@
 3 - Create a script that counts the number of directories in the PATH.
 4 - Create a script that lists environment variables.
 5 - lists all local variables and environment variables, and function
-
+6 - script that creates a new local variable
